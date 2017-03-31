@@ -1,0 +1,72 @@
+#header{
+	list-style-type: none;
+	margin:10px;
+	padding:0;
+	margin-left:5px;
+}
+#header li{
+	font-family: cursive;
+    display:inline;
+    float:right;
+}
+#header li a{
+	text-decoration:none;
+	text-align:center;
+	padding:10px 13px;
+	color:black;
+}
+
+img{
+	margin:auto;
+	position:absolute;
+	top:0;
+	left:0;
+	bottom:40%;
+	right:0;
+}
+form{
+	position:absolute;
+	left:31%;
+	top:50%;
+	right:30%;
+}
+
+#explore{
+	font-family: cursive;
+	position:absolute;
+	left:34.5%;
+	top:65%;
+	
+}
+
+#heiheihei{
+	margin-top: 0;
+	width:600px;
+	height:35px;
+}
+.hahaha{
+	font-size: 1em;
+	font-family: cursive;
+	width: 130px;
+	height: 35px;
+	margin-left: 25%;
+	display: inline;
+	margin-top:10px;
+	background-color:rgb(130,197,204);
+	}
+#lucky{
+	margin-left: 15px;
+}
+#footer li{
+    display:inline;
+    }
+#footer li a{
+	text-decoration:none;
+	padding:5px;
+}
+#footer{
+	font-family: cursive;
+	position: absolute;
+	right: 40%;
+	bottom:0;
+}
